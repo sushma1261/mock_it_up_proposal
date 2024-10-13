@@ -1,5 +1,7 @@
 **MockItUp**
+
 Sushma Manthena
+
 Summary
 
 MockItUp is an iOS app designed to revolutionize interview preparation by enhancing users' communication skills. Many individuals face challenges in expressing confidence and clarity during interviews. MockItUp analyzes voice and video recordings, offering actionable insights on key factors such as confidence, grammar, and accuracy. Powered by machine learning, it provides real-time feedback, enabling candidates to practice more effectively and improve their interview readiness. Additionally, it offers users valuable resources for targeted practice, making it an essential tool in today’s competitive job market.
@@ -48,5 +50,5 @@ Few screens that would be included in MVP:
 (What are the necessary components to support an MVP? Data structures? Storage considerations? Web/cloud interactions? Be sure to put in some thoughts as to how to measure your success here. Call out dependencies on 3rd party services/APIs here, too)
 
 
-**Challenges and Open Questions
-**Identify technical challenges that may come up (e.g. hardware limitations, access to data/services, performance issues, etc.) and propose some solutions to the identified challenges. Also include questions on matters that you are unsure/unclear about that requires feedback from peers, users, or additional research.
+**Challenges and Open Questions**
+Identify technical challenges that may come up (e.g. hardware limitations, access to data/services, performance issues, etc.) and propose some solutions to the identified challenges. Also include questions on matters that you are unsure/unclear about that requires feedback from peers, users, or additional research.
