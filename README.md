@@ -1,6 +1,6 @@
 # **MockItUp**
 
-_Sushma Manthena_
+Proposed by: _Sushma Manthena_
 
 ## **Summary**
 
@@ -73,7 +73,9 @@ Sample screens:
 ### **Technical Architecture**
 
 Storage Considerations: Store audio/video files in some cloud to have access across any device.
+
 Cloud Integrations: Use some storage for files. May be AWS/firebase.
+
 Machine Learning: Leverage pre-trained models for speech recognition, sentiment analysis, and body language evaluation (e.g., Apple's Core ML or PyTorch or TensorFlow).
 
 Success metrics would be based on how fast ML evaluates the results and gives feedback to users.
@@ -81,6 +83,7 @@ Success metrics would be based on how fast ML evaluates the results and gives fe
 ## **Challenges and Open Questions**
 
 Technical Challenges:
+
 Data Processing: Handling large volumes of audio and video data in real time could lead to performance bottlenecks. One of the solution could be using some cloud data store and optimised techniques to store that data.
 
 Hardware limitations: Noise identifications in older iPhones.
