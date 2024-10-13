@@ -43,6 +43,7 @@ The Minimum Viable Product (MVP) will include:
 - Basic mock interview setup where users can answer predefined questions via voice.
 - Using machine learning algorithms that analyze grammar, confidence, and accuracy, with basic feedback provided.
 - Simple user interface for recording, reviewing, and receiving feedback on their answers.
+
 Scope:
 - The MVP will focus on job seekers and interview preparation, without delving into niche interview formats.
 - Limitations include only focusing on verbal communication in the first version, while non-verbal communication (e.g., body language), peer reviews and resource for preparations will be added in future versions.
