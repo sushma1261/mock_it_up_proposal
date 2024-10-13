@@ -1,11 +1,10 @@
-## **MockItUp**
+# **MockItUp**
 
 _Sushma Manthena_
 
 ## **Summary**
 
 MockItUp is an iOS app designed to revolutionize interview preparation by enhancing users' communication skills. Many individuals face challenges in expressing confidence and clarity during interviews. MockItUp analyzes voice and video recordings, offering actionable insights on key factors such as confidence, grammar, and accuracy. Powered by machine learning, it provides real-time feedback, enabling candidates to practice more effectively and improve their interview readiness. Additionally, it offers users valuable resources for targeted practice, making it an essential tool in today's competitive job market.
-Project Analysis
 
 ### **Value Proposition**
 
@@ -73,8 +72,17 @@ Sample screens:
 
 ### **Technical Architecture**
 
-(What are the necessary components to support an MVP? Data structures? Storage considerations? Web/cloud interactions? Be sure to put in some thoughts as to how to measure your success here. Call out dependencies on 3rd party services/APIs here, too)
+Storage Considerations: Store audio/video files in some cloud to have access across any device.
+Cloud Integrations: Use some storage for files. May be AWS/firebase.
+Machine Learning: Leverage pre-trained models for speech recognition, sentiment analysis, and body language evaluation (e.g., Apple's Core ML or PyTorch or TensorFlow).
+
+Success metrics would be based on how fast ML evaluates the results and gives feedback to users.
 
 ## **Challenges and Open Questions**
 
-Identify technical challenges that may come up (e.g. hardware limitations, access to data/services, performance issues, etc.) and propose some solutions to the identified challenges. Also include questions on matters that you are unsure/unclear about that requires feedback from peers, users, or additional research.
+Technical Challenges:
+Data Processing: Handling large volumes of audio and video data in real time could lead to performance bottlenecks. One of the solution could be using some cloud data store and optimised techniques to store that data.
+
+Hardware limitations: Noise identifications in older iPhones.
+
+Accuracy of AI Feedback: Ensuring that the machine learning models provide reliable and meaningful feedback, particularly in non-verbal communication (e.g., tone, confidence).
