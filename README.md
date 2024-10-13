@@ -27,11 +27,11 @@ The primary purpose of MockItUp is to help candidates enhance their communicatio
 - Professionals in transition looking to improve their interviewing skills.
 - Individuals preparing for industry-specific interviews where communication is key, such as consulting or management roles.
 
-Communication skills often make or break a candidate's success in interviews. The target audience includes people who are likely to face high-stakes interviews and would benefit from feedback on their communication. The plan is to reach this audience through targeted marketing on platforms like LinkedIn, job boards, and career development networks.
+Communication skills often make or break a candidate's success in interviews. The target audience includes people who are likely to face high-stakes in interviews and would benefit from feedback on their communication and language.
 
 ### **Success Criteria**
 
-The primary metric will be user feedback and engagement metrics (e.g., how many sessions are completed, frequency of use, and qualitative feedback on the utility of the feedback given). And measure success through case studies of users reporting that the app helped them succeed in their interviews.
+The primary metric will be user feedback and engagement metrics (e.g., how many sessions are completed, frequency of use, and qualitative feedback on the utility of the feedback given). And we can also measure success through case studies of users reporting that the app helped them succeed in their interviews.
 
 ### **Competitor Analysis**
 
@@ -83,4 +83,9 @@ Technical Challenges:
 
 - Data Processing: Handling large volumes of audio and video data in real time could lead to performance bottlenecks. One of the solution could be using some cloud data store and optimised techniques to store that data.
 - Hardware limitations: Noise identifications in older iPhones.
-- Accuracy of AI Feedback: Ensuring that the machine learning models provide reliable and meaningful feedback, particularly in non-verbal communication (e.g., tone, confidence).
+- Accuracy of AI Feedback: Ensuring that the machine learning models provide reliable and meaningful feedback, particularly in non-verbal communication (e.g., tone, confidence). Solution: Regularly re-training the model based on user feedback.
+
+Open Questions:
+
+- Where to get the dataset to train the models?
+- Should it be particular to only interviews or can be extended to other as well?
