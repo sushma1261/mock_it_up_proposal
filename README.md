@@ -35,6 +35,8 @@ The primary metric will be user feedback and engagement metrics (e.g., how many 
 
 ### **Competitor Analysis**
 
+Apps like Pramp and Voomer analyze communication skills by assessing confidence, but a unique feature of MockItUp is the ability to provide real-time feedback during the mock interview. Additionally, it offers emotion and tone analysis, ensuring users understand how their delivery affects their performance. MockItUp also focuses on asking the right questions tailored to the user’s specific career goals, enhancing the overall interview preparation experience.
+
 ### **Monetization Model**
 
 Offer a free tier with basic mock interviews and feedback. Users can upgrade to a premium subscription for advanced features like detailed emotion analysis, real-time question adjustment, peer reviews, and personalized feedback reports.
