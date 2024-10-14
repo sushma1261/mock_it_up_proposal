@@ -70,7 +70,8 @@ Additional Screens(May or may not be part of MVP based on bandwidth):
 
 Sample screens:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/f1f95c17-a318-4827-99d1-ae5b318c0932)
+
 
 ### **Technical Architecture**
 
