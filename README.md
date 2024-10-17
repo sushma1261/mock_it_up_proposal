@@ -8,7 +8,7 @@
 The design of MockItUp aligns well with its target demographic by addressing their specific needs in the interview preparation process. 
 Here's how each screen caters to the users:
 
-1. Sign In/Sign Up Screen: This familiar interface allows easy access for users, catering to a demographic that values convenience and security when logging into personal development applications.
+1. Sign In/Sign Up Screen: So that we can save the data of user and this can be accessed in any device user logs into.
 
 2. Preferences Screen:
 
